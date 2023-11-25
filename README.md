@@ -59,11 +59,11 @@ _Prof. Pushpak Bhattacharyya_
 - Conducted experiments on COCO dataset after negative-sampling and achieved an F1-score of 0.89
 
 ## Achievements and Extracurriculars
-- Gold medallist in B.Tech. for securing 1st rank among 120+ students in Banasthali University
-- Gold medallist in Advanced Diploma in German (A 3-year course run by Banasthali University)
-- Attained a perfect 10 SPI in autumn and spring semesters (2021-22) at IITB during M.S., with an AA grade in three subjects, two R&D projects and seminar
+- **Gold medallist in B.Tech.** for securing 1st rank among 120+ students in Banasthali University
+- **Gold medallist** in Advanced Diploma in **German** (A 3-year course run by Banasthali University)
+- Attained a **perfect 10 SPI** in autumn and spring semesters (2021-22) at IITB during M.S., with an **AA** grade in three subjects, two R&D projects and seminar
 - Teaching assistant for the Advanced NLP course taught to Qualcomm Engineers by CFILT, IITB
-- RJ and Anchor at Radio Banasthali 90.4 MHz for the year 2013-14
+- **RJ** and **Anchor** at Radio Banasthali **90.4 MHz** for the year 2013-14
 - Interests and hobbies: Sketching, Travelling, Swimming, Reading Fiction Novels, and Urdu Poetry
 
 
