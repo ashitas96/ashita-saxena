@@ -6,16 +6,11 @@
 
 ## Education
 
+| **M.S. by Research, CSE** | **Indian Institute of Technology, Bombay** | **9.79**   |
+|---------------------------|--------------------------------------------|------------|
+| **B.Tech, CSE**           | **Banasthali University, Rajasthan**       | **87.86%** |
+| **Intermediate**          | **CBSE**                                   | **95.6%**  |
 
-
-| M.S. by Research, CSE | Indian Institute of Technology, Bombay | 9.79   | July 2024 |
-|:----------------------|:---------------------------------------|:-------|:----------|
-| B.Tech, CSE           | Banasthali University, Rajasthan       | 87.86% | July 2017 |
-| Intermediate          | CBSE                                   | 95.6%  | May 2013  |
-
-- M.S. by Research, CSE | Indian Institute of Technology, Bombay (_July 2024_) | 9.79  							       		
-- B.Tech, CSE	| Banasthali University, Rajasthan (_July 2017_) | 87.86% 		        		
-- Intermediate | CBSE  (_May 2013_) | 95.6% 
 
 ## Work Experience
 **Research Intern @ IBM Research (_May 2023 - July 2023_)**
