@@ -10,7 +10,6 @@
 | B.Tech, CSE           | Banasthali University, Rajasthan       | 87.86% |
 | Intermediate          | CBSE                                   | 95.6%  |
 
-
 ## Work Experience
 **Research Intern @ IBM Research (_May 2023 - July 2023_)**
 - Curated a dataset of 9,055 instances for the novel task of code repository description generation
@@ -25,20 +24,20 @@
 - Single-handedly developed and deployed the TMA module as part of an onsite 4G project
 
 ## Publications
-- Ashita Saxena∗, Kishan Maharaj∗, Raja Kumar, Abhijit Mishra, Pushpak Bhattacharyya. Eyes Show the Way: Harnessing Gaze Features for Hallucination Detection. Empirical Methods in Natural Language Processing (EMNLP), Findings, 2023.
+- Ashita Saxena∗, Kishan Maharaj∗, Raja Kumar, Abhijit Mishra, Pushpak Bhattacharyya. **Eyes Show the Way: Harnessing Gaze Features for Hallucination Detection**. _Empirical Methods in Natural Language Processing (EMNLP)_, Findings, 2023.
 
 ## Upcoming Tutorials
-- Addressing Bias and Hallucination in Large Language Models, LREC-COLING, 2024
-- Harnessing LLMs with Prompts: Applications, Challenges, and Maximizing their Potential, ICON, 2023
+- **Addressing Bias and Hallucination in Large Language Models**, _LREC-COLING_, 2024
+- **Harnessing LLMs with Prompts: Applications, Challenges, and Maximizing their Potential**, _ICON_, 2023
 
 ## Research Experience
-**Modelling Gaze Behavior for Hallucination Detection (_Jan 2023 - Present)**
+**Modelling Gaze Behavior for Hallucination Detection** _(Jan 2023 - present)_
 
 _Prof. Pushpak Bhattacharyya & Dr. Abhijit Mishra_
 - Experimenting on hallucination detection in the context of pragmatic and reasoning instances
 - Curated a dataset containing gaze annotations for 500 instances for the task of hallucination detection and developed a cognitively inspired BERT-based framework obtaining a balanced accuracy of 87.1%
 
-**Hallucination Detection in Machine Generated Text (_May 2022 - Present)**
+**Hallucination Detection in Machine Generated Text** _(May 2022 - present)_
 
 _Prof. Pushpak Bhattacharyya_
 - Developed novel strategies for synthetic data generation for phrase-level hallucination detection in abstractive summarization and proposed a RoBERTa-based model with a macro F1 score of 0.849
