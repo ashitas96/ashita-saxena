@@ -28,13 +28,13 @@
 * * *
 
 ## Publications
-- Ashita Saxena∗, Kishan Maharaj∗, Raja Kumar, Abhijit Mishra, Pushpak Bhattacharyya. [**Eyes Show the Way: Modelling Gaze Behavior for Hallucination Detection**](https://github.com/kishanmaharaj/gaze-hallucination-detection). _Empirical Methods in Natural Language Processing (EMNLP)_, Findings, 2023.
+- Ashita Saxena∗, Kishan Maharaj∗, Raja Kumar, Abhijit Mishra, Pushpak Bhattacharyya. [Eyes Show the Way: Modelling Gaze Behavior for Hallucination Detection](https://github.com/kishanmaharaj/gaze-hallucination-detection). _Empirical Methods in Natural Language Processing (EMNLP)_, Findings, 2023.
 
 * * *
 
 ## Upcoming Tutorials
-- **Addressing Bias and Hallucination in Large Language Models**, _LREC-COLING_, 2024
-- [**Harnessing LLMs with Prompts: Applications, Challenges, and Maximizing their Potential**](https://www.cse.iitb.ac.in/~nihar/ICON_2023_Prompting/), _ICON_, 2023
+- Addressing Bias and Hallucination in Large Language Models, _LREC-COLING_, 2024
+- [Harnessing LLMs with Prompts: Applications, Challenges, and Maximizing their Potential](https://www.cse.iitb.ac.in/~nihar/ICON_2023_Prompting/), _ICON_, 2023
 
 * * *
 
