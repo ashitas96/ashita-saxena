@@ -1,7 +1,6 @@
 # M.S. by Research (CSE) 
 ## Indian Institute of Technology, Bombay
-
-#### Technical Skills: Python, PyTorch, Huggingface, SkLearn, MATLAB, Seaborn, SQL, Shell, Linux, Git, LaTeX 
+### Guided by Prof. Pushpak Bhattacharyya
 
 ## Education
 
