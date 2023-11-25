@@ -7,8 +7,9 @@
 ## Education
 
 
-|:----------------------|:---------------------------------------|:-------|:----------|
+
 | M.S. by Research, CSE | Indian Institute of Technology, Bombay | 9.79   | July 2024 |
+|:----------------------|:---------------------------------------|:-------|:----------|
 | B.Tech, CSE           | Banasthali University, Rajasthan       | 87.86% | July 2017 |
 | Intermediate          | CBSE                                   | 95.6%  | May 2013  |
 
