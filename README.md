@@ -1,6 +1,6 @@
 # M.S. by Research (CSE) 
-### Guided by Prof. Pushpak Bhattacharyya
-## Indian Institute of Technology, Bombay
+### Guided by [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/)
+## [Indian Institute of Technology, Bombay](https://www.cse.iitb.ac.in/)
 
 * * *
 
@@ -35,13 +35,13 @@
 ## Research Experience
 **Modelling Gaze Behavior for Hallucination Detection** _(Jan 2023 - present)_
 
-_Prof. Pushpak Bhattacharyya & Dr. Abhijit Mishra_
+_[Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/) & [Dr. Abhijit Mishra](https://abhijitmishra.github.io/)_
 - Experimenting on hallucination detection in the context of pragmatic and reasoning instances
 - Curated a dataset containing gaze annotations for 500 instances for the task of hallucination detection and developed a cognitively inspired BERT-based framework obtaining a balanced accuracy of 87.1%
 
 **Hallucination Detection in Machine Generated Text** _(May 2022 - present)_
 
-_Prof. Pushpak Bhattacharyya_
+_[Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/)_
 - Developed novel strategies for synthetic data generation for phrase-level hallucination detection in abstractive summarization and proposed a RoBERTa-based model with a macro F1 score of 0.849
 - Proposed a novel method using a RoBERTa model for fine-grained hallucination detection based on textual entailment outperforming the existing factuality inconsistency detection systems by 12%
 
@@ -64,6 +64,6 @@ _Prof. Pushpak Bhattacharyya_
 - Attained a **perfect 10 SPI** in autumn and spring semesters (2021-22) at IITB during M.S., with an **AA** grade in three subjects, two R&D projects and seminar
 - Teaching assistant for the Advanced NLP course taught to Qualcomm Engineers by CFILT, IITB
 - **RJ** and **Anchor** at Radio Banasthali **90.4 MHz** for the year 2013-14
-- Interests and hobbies: Sketching, Travelling, Swimming, Reading Fiction Novels, and Urdu Poetry
+- Interests and hobbies: [Sketching](https://www.instagram.com/ignoring.reality/), Travelling, Swimming, Reading Fiction Novels, and Urdu Poetry
 
 
