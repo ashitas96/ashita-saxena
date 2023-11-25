@@ -1,11 +1,12 @@
 # M.S. by Research (CSE) 
-## Indian Institute of Technology, Bombay
 ### Guided by Prof. Pushpak Bhattacharyya
+## Indian Institute of Technology, Bombay
 
 ## Education
 
-| M.S. by Research, CSE | Indian Institute of Technology, Bombay | 9.79   |
+| Programme             | Institute                              | Grade  |
 |-----------------------|----------------------------------------|--------|
+| M.S. by Research, CSE | Indian Institute of Technology, Bombay | 9.79   |
 | B.Tech, CSE           | Banasthali University, Rajasthan       | 87.86% |
 | Intermediate          | CBSE                                   | 95.6%  |
 
