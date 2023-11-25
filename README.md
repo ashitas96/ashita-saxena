@@ -4,9 +4,9 @@
 #### Technical Skills: Python, PyTorch, Huggingface, SkLearn, MATLAB, Seaborn, SQL, Shell, Linux, Git, LaTeX 
 
 ## Education
-
-| M.S. by Research, CSE | Indian Institute of Technology, Bombay | 9.79   |
+||||
 |-----------------------|----------------------------------------|--------|
+| M.S. by Research, CSE | Indian Institute of Technology, Bombay | 9.79   |
 | B.Tech, CSE           | Banasthali University, Rajasthan       | 87.86% |
 | Intermediate          | CBSE                                   | 95.6%  |
 
