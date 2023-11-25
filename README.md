@@ -12,8 +12,6 @@
 | B.Tech, CSE           | Banasthali University, Rajasthan       | 87.86% |
 | Intermediate          | CBSE                                   | 95.6%  |
 
-* * *
-
 ## Work Experience
 **Research Intern @ IBM Research (_May 2023 - July 2023_)**
 - Curated a dataset of 9,055 instances for the novel task of code repository description generation
