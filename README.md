@@ -1,16 +1,17 @@
-# Data Scientist
+# M.S. by Research (CSE), Indian Institute of Technology, Bombay
+## Guided by: Prof. Pushpak Bhattacharyya
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, PyTorch, Huggingface, Tensorflow, SkLearn, Pandas, MATLAB, Seaborn, SQL, Shell, Linux, Git, LaTeX 
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S. by Research, CSE | Indian Institute of Technology, Bombay (_July 2024_) | 9.79  							       		
+- B.Tech, CSE	| Banasthali University, Rajasthan (_July 2017_) | 87.86% 		        		
+- Intermediate | CBSE  (_May 2013_) | 95.6% 
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Research Intern @ IBM Research (_May 2023 - July 2023_)**
+- Curated a dataset of 9,055 instances for the novel task of code repository description generation
+- Developed a system using prompt engineering and fine-tuning Large Language Models (LLMs) to generate descriptions obtaining an improvement of 46.25% and 42.6% in ROUGE-L and BLEU
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
