@@ -12,6 +12,8 @@
 | B.Tech, CSE           | Banasthali University, Rajasthan       | 87.86% |
 | Intermediate          | CBSE                                   | 95.6%  |
 
+* * *
+
 ## Work Experience
 **Research Intern @ IBM Research (_May 2023 - July 2023_)**
 - Curated a dataset of 9,055 instances for the novel task of code repository description generation
@@ -25,12 +27,18 @@
 - Developed 4G UE-simulator and RET feature using C and C++ following agile methodologies
 - Single-handedly developed and deployed the TMA module as part of an onsite 4G project
 
+* * *
+
 ## Publications
 - Ashita Saxena∗, Kishan Maharaj∗, Raja Kumar, Abhijit Mishra, Pushpak Bhattacharyya. **Eyes Show the Way: Harnessing Gaze Features for Hallucination Detection**. _Empirical Methods in Natural Language Processing (EMNLP)_, Findings, 2023.
+
+* * *
 
 ## Upcoming Tutorials
 - **Addressing Bias and Hallucination in Large Language Models**, _LREC-COLING_, 2024
 - **Harnessing LLMs with Prompts: Applications, Challenges, and Maximizing their Potential**, _ICON_, 2023
+
+* * *
 
 ## Research Experience
 **Modelling Gaze Behavior for Hallucination Detection** _(Jan 2023 - present)_
@@ -45,6 +53,8 @@ _[Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/)_
 - Developed novel strategies for synthetic data generation for phrase-level hallucination detection in abstractive summarization and proposed a RoBERTa-based model with a macro F1 score of 0.849
 - Proposed a novel method using a RoBERTa model for fine-grained hallucination detection based on textual entailment outperforming the existing factuality inconsistency detection systems by 12%
 
+* * *
+
 ## Projects
 ### DoodlerGAN: Exploring Adversarial Networks for Doodling
 - Implemented a Generative Adversarial Network to create the next doodle stroke given a partial doodle
@@ -57,6 +67,8 @@ _[Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/)_
 ### Caption-consistency Detector
 - Implemented an image caption consistency detector using a CNN and transformer-based architecture
 - Conducted experiments on COCO dataset after negative-sampling and achieved an F1-score of 0.89
+
+* * *
 
 ## Achievements and Extracurriculars
 - **Gold medallist in B.Tech.** for securing 1st rank among 120+ students in Banasthali University
