@@ -34,7 +34,7 @@
 
 ## Upcoming Tutorials
 - **Addressing Bias and Hallucination in Large Language Models**, _LREC-COLING_, 2024
-- **Harnessing LLMs with Prompts: Applications, Challenges, and Maximizing their Potential**, _ICON_, 2023
+- [**Harnessing LLMs with Prompts: Applications, Challenges, and Maximizing their Potential**](https://www.cse.iitb.ac.in/~nihar/ICON_2023_Prompting/), _ICON_, 2023
 
 * * *
 
