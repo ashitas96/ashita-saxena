@@ -3,6 +3,8 @@
 ## [Indian Institute of Technology, Bombay](https://www.cse.iitb.ac.in/)
 
 * * *
+#### [Education](#education) | [Work Experience](#work-experience) | [Publications](#publications) | [Tutorials](#upcoming-tutorials) | [Research Experience](#research-experience) | [Projects](#projects) | [Achievements and Extracurriculars](#achievements-and-extracurriculars)
+* * *
 
 ## Education
 
