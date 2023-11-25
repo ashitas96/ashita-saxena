@@ -1,9 +1,17 @@
-# M.S. by Research (CSE), Indian Institute of Technology, Bombay
-## Guided by: Prof. Pushpak Bhattacharyya
+# M.S. by Research (CSE) 
+## Indian Institute of Technology, Bombay
+### Guided by: Prof. Pushpak Bhattacharyya
 
 #### Technical Skills: Python, PyTorch, Huggingface, Tensorflow, SkLearn, Pandas, MATLAB, Seaborn, SQL, Shell, Linux, Git, LaTeX 
 
 ## Education
+
+
+|:----------------------|:---------------------------------------|:-------|:----------|
+| M.S. by Research, CSE | Indian Institute of Technology, Bombay | 9.79   | July 2024 |
+| B.Tech, CSE           | Banasthali University, Rajasthan       | 87.86% | July 2017 |
+| Intermediate          | CBSE                                   | 95.6%  | May 2013  |
+
 - M.S. by Research, CSE | Indian Institute of Technology, Bombay (_July 2024_) | 9.79  							       		
 - B.Tech, CSE	| Banasthali University, Rajasthan (_July 2017_) | 87.86% 		        		
 - Intermediate | CBSE  (_May 2013_) | 95.6% 
@@ -13,8 +21,8 @@
 - Curated a dataset of 9,055 instances for the novel task of code repository description generation
 - Developed a system using prompt engineering and fine-tuning Large Language Models (LLMs) to generate descriptions obtaining an improvement of 46.25% and 42.6% in ROUGE-L and BLEU
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+**Post Graduate Teacher (Computer Science) @ Kendriya Vidyalaya, Madurai (_Mar 2019 - July 2021_)**
+- Taught Python, DBMS and computer networking to 100+ students of XI and XII standard
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
