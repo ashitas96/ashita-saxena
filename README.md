@@ -1,7 +1,7 @@
 # M.S. by Research (CSE) 
 ## Indian Institute of Technology, Bombay
 
-#### Technical Skills: Python, PyTorch, Huggingface, Tensorflow, SkLearn, Pandas, MATLAB, Seaborn, SQL, Shell, Linux, Git, LaTeX 
+#### Technical Skills: Python, PyTorch, Huggingface, SkLearn, MATLAB, Seaborn, SQL, Shell, Linux, Git, LaTeX 
 
 ## Education
 
@@ -31,18 +31,38 @@
 - Addressing Bias and Hallucination in Large Language Models, LREC-COLING, 2024
 - Harnessing LLMs with Prompts: Applications, Challenges, and Maximizing their Potential, ICON, 2023
 
+## Research Experience
+**Modelling Gaze Behavior for Hallucination Detection (_Jan 2023 - Present)**
+
+_Prof. Pushpak Bhattacharyya & Dr. Abhijit Mishra_
+- Experimenting on hallucination detection in the context of pragmatic and reasoning instances
+- Curated a dataset containing gaze annotations for 500 instances for the task of hallucination detection and developed a cognitively inspired BERT-based framework obtaining a balanced accuracy of 87.1%
+
+**Hallucination Detection in Machine Generated Text (_May 2022 - Present)**
+
+_Prof. Pushpak Bhattacharyya_
+- Developed novel strategies for synthetic data generation for phrase-level hallucination detection in abstractive summarization and proposed a RoBERTa-based model with a macro F1 score of 0.849
+- Proposed a novel method using a RoBERTa model for fine-grained hallucination detection based on textual entailment outperforming the existing factuality inconsistency detection systems by 12%
+
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### DoodlerGAN: Exploring Adversarial Networks for Doodling
+- Implemented a Generative Adversarial Network to create the next doodle stroke given a partial doodle
+- Experimented on the Creative Birds Dataset obtaining 75% more diverse generations than the baseline
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### Pianos are Hard? VAEs to the Rescue!
+- Implemented a CNN based Variational Auto Encoder for generation of musical piano notes
+- Used the Lakh Pianoroll Dataset for training by maximizing Evidence Lower Bound (ELBO) objective
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Caption-consistency Detector
+- Implemented an image caption consistency detector using a CNN and transformer-based architecture
+- Conducted experiments on COCO dataset after negative-sampling and achieved an F1-score of 0.89
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+## Achievements and Extracurriculars
+- Gold medallist in B.Tech. for securing 1st rank among 120+ students in Banasthali University
+- Gold medallist in Advanced Diploma in German (A 3-year course run by Banasthali University)
+- Attained a perfect 10 SPI in autumn and spring semesters (2021-22) at IITB during M.S., with an AA grade in three subjects, two R&D projects and seminar
+- Teaching assistant for the Advanced NLP course taught to Qualcomm Engineers by CFILT, IITB
+- RJ and Anchor at Radio Banasthali 90.4 MHz for the year 2013-14
+- Interests and hobbies: Sketching, Travelling, Swimming, Reading Fiction Novels, and Urdu Poetry
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
