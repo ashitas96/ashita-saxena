@@ -2,6 +2,8 @@
 ### Guided by Prof. Pushpak Bhattacharyya
 ## Indian Institute of Technology, Bombay
 
+* * *
+
 ## Education
 
 | Programme             | Institute                              | Grade  |
