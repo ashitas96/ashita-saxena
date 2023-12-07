@@ -6,11 +6,7 @@
 
 as.saxena.as@gmail.com | [LinkedIn](https://www.linkedin.com/in/ashita-saxena/)
 
-* * *
-
 [Education](#education) | [Work Experience](#work-experience) | [Publications](#publications) | [Tutorials](#upcoming-tutorials) | [Research Experience](#research-experience) | [Projects](#projects) | [Achievements and Extracurriculars](#achievements-and-extracurriculars)
-
-* * *
 
 ## Education
 
