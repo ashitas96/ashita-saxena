@@ -1,12 +1,15 @@
 # M.S. by Research (CSE) 
 ### Guided by [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/)
 ## [Indian Institute of Technology, Bombay](https://www.cse.iitb.ac.in/)
+
 * * *
 
 Contact: as.saxena.as@gmail.com | [LinkedIn](https://www.linkedin.com/in/ashita-saxena/)
 
 * * *
+
 Quick Links: [Education](#education) | [Work Experience](#work-experience) | [Publications](#publications) | [Tutorials](#upcoming-tutorials) | [Research Experience](#research-experience) | [Projects](#projects) | [Achievements and Extracurriculars](#achievements-and-extracurriculars)
+
 * * *
 
 ## Education
@@ -36,6 +39,7 @@ Quick Links: [Education](#education) | [Work Experience](#work-experience) | [Pu
 - Ashita Saxena∗, Kishan Maharaj∗, Raja Kumar, Abhijit Mishra, Pushpak Bhattacharyya. [Eyes Show the Way: Modelling Gaze Behavior for Hallucination Detection](https://github.com/kishanmaharaj/gaze-hallucination-detection). _Empirical Methods in Natural Language Processing (EMNLP)_, Findings, 2023.
 
 - Ashita Saxena*, Naveen Badathala*, Pushpak Bhattacharyya. NLI to the Rescue: Mapping Entailment Classes to Hallucination Categories in Abstractive Summarization. _International Conference on Natural Language Processing_, 2023
+
 * * *
 
 ## Upcoming Tutorials
